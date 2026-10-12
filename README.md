@@ -1,3 +1,3 @@
-### Projects
+### Omni Interaction Model
 
-- [20260923 Realtime-Venus](https://github.com/inclusionAI/Realtime-Venus)
+- [Realtime-Venus](https://github.com/inclusionAI/Realtime-Venus) — 2026.9.23 发布第一版 Realtime-Venus
